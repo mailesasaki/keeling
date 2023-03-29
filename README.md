@@ -1,6 +1,6 @@
 # Keeling Docs
 
-Hello! This is a repository with documentation on using Keeling, especially with the Community Earth System Model version 1.2.1 (CESM 1.2.1).
+This is a repository with documentation on using Keeling, especially with the Community Earth System Model version 1.2.1 (CESM 1.2.1).
 
 Follow the links below to learn more:
 
@@ -20,7 +20,8 @@ Follow the links below to learn more:
 
 [Dealing with output](./Output.ipynb)
 
-[Changing SST and using a simplified aquaplanet compset](./Example Experiments/aquaplanet_with_fixed_sst.md)
+[Changing SST and using a simplified aquaplanet compset](<./Example Experiments/aquaplanet_with_fixed_sst.md>)
+
 ## Additional Resources for CESM
 
 [CESM 1.2.1 User's Guide](https://www2.cesm.ucar.edu/models/cesm1.2/cesm/doc/usersguide/book1.html)
